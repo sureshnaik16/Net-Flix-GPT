@@ -1,9 +1,6 @@
-- Started the project with create-react-app
-- Installed whatever required on the go
-    Like
-    - Tailwind
-    - react-router
-    - react-router-dom
-        etc..
-- Created Seperate files for seperate uses
 
+• Developed a real world Netflix-inspired website with Firebase Authentication and TMDB API integration.
+• Implemented chatbot based search suggestions and genre-wise filtering based on user prompt.
+• Used TMDB API, Gemini API to get real world data based on user flow throughout the page.
+• Used Redux for store management like user, movie, Gemini slices. Used Tailwind for responsive design.
+• Deployed on Firebase Hosting with secure routing and responsiveness.
